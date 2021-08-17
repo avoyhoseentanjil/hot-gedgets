@@ -35,4 +35,9 @@
 .categories-item {
     padding:  20px 20px;
     margin-right: 5px;
-}
+}  
+.card-img img{
+ margin-left: 100px;
+    height: 200px;
+    width: 220px;
+} 
